@@ -1,0 +1,4 @@
+---- postfileds Matches (3 in 2 files) ----
+Sendpost.cpp (d:\opencvprojects\statistic_linux\src):	postfileds = tmp;
+Sendpost.cpp (d:\opencvprojects\statistic_linux\src):	Post(posturl, postfileds);
+Sendpost.hpp (d:\opencvprojects\statistic_linux\src):		string postfileds = "";
